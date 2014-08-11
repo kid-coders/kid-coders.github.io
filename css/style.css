@@ -606,16 +606,11 @@ padding: 0.85em 1em 0.85em 1em;
 	{
 		background: #fff;
 		box-shadow: 0px 3px 0px 0px rgba(0,0,0,0.05);
+		padding-left: 0px;
 	}
 	
 	#footer-wrapper
 	{
-	}
-
-	#help-wrapper
-	{
-		background: #fff;
-		box-shadow: 0px 3px 0px 0px rgba(0,0,0,0.05);	
 	}
 	
 /*********************************************************************************/
